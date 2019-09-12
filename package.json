@@ -1,5 +1,5 @@
 {
-  "name": "@yoshokatana/graphql-json-schema",
+  "name": "graphql-json-schema-fix",
   "version": "1.0.0",
   "description": "Converts between GraphQL Schema Language and JSON Schema",
   "main": "index.js",
