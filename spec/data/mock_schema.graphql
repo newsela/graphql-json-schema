@@ -2,6 +2,9 @@ scalar Foo
 
 union MyUnion = Foo | String | Float
 
+"""
+An enum may contain multiple values
+"""
 enum MyEnum {
   FIRST_ITEM
   SECOND_ITEM

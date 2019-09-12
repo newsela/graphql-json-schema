@@ -52,7 +52,7 @@ const toFieldArguments = _arguments => {
     return {
       title: a.name.value,
       type: getPropertyType(a.type),
-      defaultValue: a.defaultValue
+      defaultValue: a.defaultValue || null
     };
   });
 }

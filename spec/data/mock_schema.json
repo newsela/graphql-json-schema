@@ -173,7 +173,6 @@
     "InputType": {
       "title": "InputType",
       "type": "object",
-      "input": true,
       "properties": {
         "an_int": {
           "type": "integer",
@@ -188,7 +187,8 @@
       },
       "required": [
         "an_int"
-      ]
+      ],
+      "input": true
     }
   }
 }

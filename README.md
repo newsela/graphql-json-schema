@@ -1,12 +1,14 @@
 # graphql-json-schema
 [![](https://travis-ci.org/jakubfiala/graphql-json-schema.svg?branch=master)](https://travis-ci.org/jakubfiala/graphql-json-schema)
 
+Fork of [`graphql-json-schema`](https://github.com/jakubfiala/graphql-json-schema) with support for modern SDL syntax
+
 Converts GraphQL Schema Language to JSON Schema
 
 ## Installation
 
 ```shell
-npm install graphql-json-schema
+yarn add @yoshokatana/graphql-json-schema
 ```
 
 ## Usage
