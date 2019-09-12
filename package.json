@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Converts between GraphQL Schema Language and JSON Schema",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "jasmine"
   },
