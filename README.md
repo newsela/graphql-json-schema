@@ -8,13 +8,13 @@ Converts GraphQL Schema Language to JSON Schema
 ## Installation
 
 ```shell
-yarn add @yoshokatana/graphql-json-schema
+yarn add graphql-json-schema-fix 
 ```
 
 ## Usage
 
 ```js
-  const transform = require('graphql-json-schema');
+  const transform = require('graphql-json-schema-fix');
 
   const schema = transform(`
     scalar Foo
